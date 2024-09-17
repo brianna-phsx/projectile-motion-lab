@@ -1,1 +1,1 @@
-# projectile-motion-lab
+Use this template for the Projectile Motion lab ONLY
