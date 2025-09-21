@@ -1,1 +1,1 @@
-Use this template for the Projectile Motion lab ONLY
+Use this template for the Projectile Motion lab ONLY. This plotting template performs a quadratic fit to your data, with a best fit line in the form y=Ax^2+Bx+C. The annotation on the plot gives you the values of A, B, and C. 
